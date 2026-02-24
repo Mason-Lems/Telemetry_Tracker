@@ -1,0 +1,17 @@
+# build files
+/build/
+*.exe
+*.obj
+*.pdb
+
+# Python
+__pycache__/
+venv/
+
+# SQLite logs
+*.db
+*.db-journal
+
+# VS / CLion
+.vs/
+.idea/
